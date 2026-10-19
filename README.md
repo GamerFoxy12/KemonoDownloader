@@ -37,9 +37,5 @@ A desktop application for downloading images and media from Kemono creator profi
 - **Advanced Filtering:** Set page range limits and include/skip specific title words.
 - **Concurrent Control:** Run multiple simultaneous download jobs with adjustable worker thread configurations.
 
----
-
 ## 📦 Requirements & Installation
-Make sure you have **Python 3.12+** installed. Clone or set up your repository workspace, then install the required dependencies:
-
-```
+Make sure you have **Python 3.12+** installed.
