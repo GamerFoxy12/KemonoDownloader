@@ -30,17 +30,16 @@ A desktop application for downloading images and media from Kemono creator profi
 
 ## 🌟 Features
 
-- **Profile & Post Support:** Download entire creator profiles or posts URLs[cite: 2].
-- **Smart Duplicate Detection:** Prevents downloading the same asset twice across runs[cite: 2].
-- **Flexible Formats:** Output images in **Original**, **WebP**, **PNG**, or **JPG** formats[cite: 2].
-- **Custom Organization:** Choose any output directory, generate per post folders, and custom file naming[cite: 2].
-- **Advanced Filtering:** Set page range limits and include/skip specific title words[cite: 2].
-- **Concurrent Control:** Run multiple simultaneous download jobs with adjustable worker thread configurations[cite: 2].
+- **Profile & Post Support:** Download entire creator profiles or posts URLs.
+- **Smart Duplicate Detection:** Prevents downloading the same asset twice across runs.
+- **Flexible Formats:** Output images in **Original**, **WebP**, **PNG**, or **JPG** formats.
+- **Custom Organization:** Choose any output directory, generate per post folders, and custom file naming.
+- **Advanced Filtering:** Set page range limits and include/skip specific title words.
+- **Concurrent Control:** Run multiple simultaneous download jobs with adjustable worker thread configurations.
 
 ---
 
 ## 📦 Requirements & Installation
-
 Make sure you have **Python 3.12+** installed. Clone or set up your repository workspace, then install the required dependencies:
 
-```bash
+```
