@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Kemono Downloader
+# 🐾 RDownloader
 
 A desktop application for downloading images and media from Kemono creator profiles and individual posts :3
 
@@ -24,7 +24,7 @@ A desktop application for downloading images and media from Kemono creator profi
 
 ## 🚀 Overview
 
-**Kemono Downloader** is a desktop utility designed to fetch creator media, profile assets, and post attachments cleanly and reliably. It handles Current Only Kemono (even with servers are down), and filtering automatically so you can archive your favorite content effortlessly.
+**RDownloader** is a desktop utility designed to fetch creator media, profile assets, and post attachments cleanly and reliably. It handles Current Only Kemono (even with servers are down) is fully supported Some websites still works but not full support, and filtering automatically so you can archive your favorite content effortlessly.
 
 ---
 
