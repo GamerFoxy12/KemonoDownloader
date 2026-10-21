@@ -2,7 +2,7 @@
 
 # 🐾 RDownloader
 
-A desktop application for downloading images and media from Kemono creator profiles and individual posts :3
+A desktop application for downloading images and media from Kemono/erome/universal creator profiles and individual posts :3
 
 <br>
 
